@@ -1,0 +1,33 @@
+
+body {
+    background-image: url("rafi.png");
+    border-style: dotted;
+    font-style: normal;
+}
+
+h1{
+	background-color: Tomato; 
+	color: Grey
+	font-style: normal;	
+	text-align: center;
+	font-size: 90px;
+}
+
+p{
+   color: slateblue;
+   font-style: normal;
+   text-align: left;
+   font-size: 30px;
+}
+
+img{
+    width: 20%;
+    height: auto;
+}
+h3{
+   background-color: DodgerBlue; 
+	color: Grey
+	font-style: normal;	
+	text-align: left;
+	font-size: 40px;
+}
